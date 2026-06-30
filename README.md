@@ -52,6 +52,11 @@ When you have installed the software above, open a terminal and clone the GitHub
 - `conda activate ./.conda`
 - `python -m pip install --upgrade pip`
 - `pip install ipykernel pylint`
+- `pip install numpy pandas matplotlib seaborn plotly scikit-learn`
+- `pip install torch`
+- `pip install "tensorflow[and-cuda]"`
+- `pip install chromadb weaviate-client requests`
+- `pip install pyodbc sqlalchemy`
 
 ## Open the First Workshop Notebook
 
@@ -59,6 +64,9 @@ Finally, make sure you are in the `dev` folder in your terminal, and open one of
 
 - `code -g notebooks/flask.ipynb:0 .`
 - `code -g notebooks/fastapi.ipynb:0 .`
+- `code -g notebooks/rag.ipynb:0 .`
+- `code -g notebooks/pt.ipynb:0 .`
+- `code -g notebooks/tf.ipynb:0 .`
 
 When the notebook opens in VSCode, click the text `Select Kernel` (in the top-right of the notebook), and choose `Python Environments... => conda (Python 3.12) .conda/bin/python`.
 
