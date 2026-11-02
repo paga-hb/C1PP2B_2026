@@ -2,7 +2,7 @@
 
 This is the repository for the Software Development Project (Autumn 2026) course at Borås University.
 
-The course schedule can be found on [Kronox](https://schema.hb.se/setup/jsp/Schema.jsp?sprak=En&sokMedAND=false&intervallAntal=6&startDatum=2025-11-10&intervallTyp=m&resurser=k.C1PP2B-20252-I30H5-) and the course material can be found on [Canvas](https://hb.instructure.com/courses/10079).
+The course schedule can be found on [Kronox](https://schema.hb.se/setup/jsp/Schema.jsp?sprak=En&sokMedAND=false&intervallAntal=12&startDatum=2026-10-02&intervallTyp=m&resurser=k.C1PP2B-20262-I18H6-) and the course material can be found on [Canvas](https://hb.instructure.com/courses/11978).
 
 ## Delopment Environment Setup
 
